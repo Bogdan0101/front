@@ -1,0 +1,138 @@
+*,
+html,
+body {
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+	background-color: #eff1fd;
+}
+.logo {
+	position: fixed;
+	top: 100px;
+	left: 980px;
+}
+.im1 {
+	position: fixed;
+	top: 100px;
+}
+.im2 {
+	position: fixed;
+	right: -30px;
+	top: 360px;
+}
+.text {
+	position: absolute;
+	width: 530px;
+	height: 470px;
+	margin-top: 200px;
+	margin-left: 800px;
+	background-color: #eff1fd;
+	text-align: center;
+	color: #161d6f;
+	z-index: 1;
+}
+.text h1 {
+	font-size: 124px;
+}
+h2 {
+	font-size: 26px;
+	font-weight: 1000;
+	background-color: #ffe097;
+	margin-top: 10px;
+	padding: 5px 80px;
+	display: inline-block;
+}
+h3 {
+	margin-top: 20px;
+	font-size: 22px;
+	font-weight: 1000;
+}
+p {
+	font-size: 24px;
+	margin-top: 20px;
+}
+.box2 {
+	width: 200px;
+	height: 90px;
+	background-color: #eff1fd;
+	margin-top: 830px;
+	margin-left: 965px;
+	position: absolute;
+	text-align: center;
+}
+.xx {
+	font-size: 22px;
+	font-weight: 1000;
+	text-decoration: none;
+	display: inline-block;
+	color: #161d6f;
+}
+li {
+	list-style: none;
+	float: left;
+	margin-left: 20px;
+	margin-top: 15px;
+}
+.inst {
+	display: block;
+	background: url(../img/Instagram.png) #161d6f;
+	background-size: contain;
+	color: black;
+	width: 24px;
+	height: 24px;
+	border-radius: 50%;
+}
+.facebook {
+	display: block;
+	background: url(../img/Facebook.png) #161d6f;
+	background-size: contain;
+	width: 24px;
+	height: 24px;
+	border-radius: 50%;
+}
+.twitter {
+	display: block;
+	background: url(../img/Twitter.png) #161d6f;
+	background-size: contain;
+	width: 24px;
+	height: 24px;
+	border-radius: 50%;
+}
+.whatsapp {
+	display: block;
+	background: url(../img/WhatsApp.png) #161d6f;
+	background-size: contain;
+	width: 24px;
+	height: 24px;
+	border-radius: 50%;
+}
+.eeg1 {
+	position: fixed;
+	display: inline-block;
+	right: 500px;
+}
+.eeg2 {
+	position: fixed;
+	display: inline-block;
+	top: -20px;
+	right: 100px;
+}
+.eeg3 {
+	position: fixed;
+	display: inline-block;
+	bottom: -90px;
+	left: 0px;
+}
+.eeg4 {
+	position: fixed;
+	display: inline-block;
+	bottom: -70px;
+	left: 450px;
+}
+.eeg5 {
+	position: fixed;
+	display: inline-block;
+	bottom: 0px;
+	right: 520px;
+	border-radius: 0px 213px 0px 0px;
+}
